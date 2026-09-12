@@ -1,0 +1,6 @@
+{
+  "name": "Philippine Payroll & DTR System",
+  "description": "Automated Philippine payroll system with Daily Time Record (IN/OUT), semi-monthly cutoffs, statutory deductions (SSS, PhilHealth, Pag-IBIG, BIR TRAIN withholding tax), and Google Sheets salary reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
